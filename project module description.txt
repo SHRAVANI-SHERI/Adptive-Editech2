@@ -1,0 +1,23 @@
+1.project Architecture Overview
+Frontend (User Interface):
+Streamlit(Frntend)
+Learner Dashboard
+Personalized Course Viewer
+Adaptive Quiz and Feedback Interface
+
+Backend API:
+FastAPI
+Learner activity tracking
+performance data processing
+Recommendation engine
+Adaptive Content delivery API
+Feedback submission and NLP analysis
+
+
+AI&ML Engine:
+Hugging Face Transformers for NLP
+Custom ML models for Learner profiling
+and assessment prediction
+LLMs (OpenAI / Hugging Face) for
+Personalized Learning paths and dynamic
+Feedback 
